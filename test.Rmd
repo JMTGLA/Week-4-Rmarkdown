@@ -30,17 +30,17 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-#Ordered and Unordered Lists
+# Ordered and Unordered Lists
 
-##Ordered List
+## Ordered List
 1. Morning
 2. Noon 
 3. Night
 
-###Unordered List
-*Table
-*Chair
-*Glass
+## Unordered List
+* Table
+* Chair
+* Glass
 
 **Repository available below**
 
